@@ -3,5 +3,8 @@
 - 🌱 progredindo também nas SoftSkills
 - 💞️ Espero que um dos meus repositorios sejam uteis para algum dev :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>	
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+</div>
 
