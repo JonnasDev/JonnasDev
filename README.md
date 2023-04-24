@@ -1,7 +1,7 @@
-- 👋 ola, me chamo Jonnas
-- 👀 Cursando superior de desenvolvimento mobile
-- 🌱 progredindo também nas SoftSkills
-- 💞️ Espero que um dos meus repositorios sejam uteis para algum dev :)
+- Ola, me chamo Jonnas
+- Cursando superior em desenvolvimento mobile
+- Progredindo também nas SoftSkills
+- Compartilhando a minha evolução =)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnasdev&theme=midnight-purple&show_icons=true)
 
