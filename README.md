@@ -6,7 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnasdev&theme=midnight-purple&show_icons=true)
 
 <div style="display: inline_block"><br>
-  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
   <img align="center" alt="Jotta-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="Jotta-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <img align="center" alt="Jotta-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
